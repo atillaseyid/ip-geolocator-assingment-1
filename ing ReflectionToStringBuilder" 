@@ -1,0 +1,11 @@
+[33mcommit 4c3d611bff67d8af1296a2d8a5b5289b5cd2898e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: atillaseyid <atillaseyid87@gmail.com>
+Date:   Fri Feb 26 08:39:21 2021 +0100
+
+    Implementing toString() in GeoLocation using ReflectionToStringBuilder
+
+[33mcommit 1463d3f0ddbdf8e758f8d739d0d6a0edba0d66ff[m
+Author: atillaseyid <atillaseyid87@gmail.com>
+Date:   Fri Feb 26 08:29:38 2021 +0100
+
+    Initial import
